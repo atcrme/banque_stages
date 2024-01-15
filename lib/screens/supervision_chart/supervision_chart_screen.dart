@@ -320,7 +320,7 @@ class _TabIcon extends StatelessWidget {
       onTap: onTap,
       child: SizedBox(
         width: screenSize.width / 3,
-        height: iconSize * 1.8,
+        height: iconSize * 2,
         child: Column(
           children: [
             Icon(
